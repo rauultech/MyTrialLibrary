@@ -1,10 +1,12 @@
-import React from 'react';
+import React from "react";
 import { View, Text } from "react-native";
 
-export default App = () => {
-    return (
-        <View>
-            <Text>This is a test</Text>
-        </View>
-    )
-};
+function App() {
+  return (
+    <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
+      <Text>Home Scree</Text>
+    </View>
+  );
+}
+
+export default App;
