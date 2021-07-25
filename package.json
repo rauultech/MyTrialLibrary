@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-my-trial-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React native my trial library",
   "main": "index.js",
   "scripts": {
