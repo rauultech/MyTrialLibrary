@@ -2,19 +2,23 @@
 {
   "name": "react-native-my-trial-library",
   "version": "1.0.0",
-  "description": "",
+  "description": "React native my trial library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git:https://github.com/rauultech/MyTrialLibrary.git"
+  },
   "keywords": [
     "react-native"
   ],
-  "author": "",
+  "author": "Rahul Mohan",
   "license": "",
+  "homepage": "https://github.com/rauultech/MyTrialLibrary.git#readme",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
   }
 }
